@@ -1,0 +1,16 @@
+{
+  "name": "passport-js",
+  "version": "1.0.0",
+  "description": "Just learning pasport js",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "nodemon server.js"
+  },
+  "author": "Faraz",
+  "license": "ISC",
+  "dependencies": {
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  }
+}
