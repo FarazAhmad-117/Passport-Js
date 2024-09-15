@@ -189,6 +189,8 @@ input {
     width: 200px;
     padding: 15px 20px;
     margin-bottom: 20px;
+    border: 1px solid #777;
+    border-radius: 8px;
 }
 
 .submit {
